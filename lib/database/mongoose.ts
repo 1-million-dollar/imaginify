@@ -1,6 +1,4 @@
-import mongoose from 'mongoose';
-import momgoose, { Mongoose } from 'mongoose';
-import { cache } from 'react';
+import mongoose, { Mongoose } from 'mongoose';
 
 const MONGODB_URL = process.env.MONGODB_URL;
 
